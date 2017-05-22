@@ -195,7 +195,7 @@ https://docs.docker.com/engine/reference/run/#/runtime-privilege-and-linux-capab
 
 `docker ps -a` shows running and stopped containers.
 
-`docker stats --all` shows a running list of containers.
+`docker stats --all` shows a list of running containers.
 
 ### Import / Export
 
